@@ -1,1 +1,1 @@
-Pour mes cours prives de letton.
+My latvian courses
