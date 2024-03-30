@@ -1,4 +1,24 @@
+body {
+  margin: 0;
+}
+
 #title {
-    display:flex;
-    background-color: gray;
+  display: flex;
+  padding-left: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin: 0;
+  background-color: rgb(177, 177, 177);
+}
+
+.menu {
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: center;
+  display: flow-root;
+}
+
+button {
+  padding: 15pt;
+  font-size: large;
 }
